@@ -1,0 +1,41 @@
+[
+
+  {"Classification":"Spell","Spell":"diffindo","Sentiment":0.7,"Count":3,"Consequence":-4.36,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"protegototalum","Sentiment":0.35,"Count":0,"Consequence":0.0018,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"nox","Sentiment":0.4144,"Count":1,"Consequence":2.0922,"Appearance":1},
+
+  {"Classification":"Curse","Spell":"imperio","Sentiment":0.5488,"Count":3,"Consequence":17.2154,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"impedimenta","Sentiment":0.7204,"Count":12,"Consequence":-8.0501,"Appearance":1},
+
+  {"Classification":"Curse","Spell":"crucio","Sentiment":0.5,"Count":11,"Consequence":1.2372,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"confundus","Sentiment":0.4568,"Count":2,"Consequence":-1.321,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"impervius","Sentiment":0.6282,"Count":4,"Consequence":3.4043,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"aguamenti","Sentiment":0.4676,"Count":8,"Consequence":-10.181,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"fidelius","Sentiment":0.7093,"Count":2,"Consequence":16.4653,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"oppugno","Sentiment":0.5499,"Count":1,"Consequence":-0.4729,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"colloportus","Sentiment":0.643,"Count":3,"Consequence":8.7616,"Appearance":0},
+
+  {"Classification":"Curse","Spell":"furnunculus","Sentiment":0.6874,"Count":2,"Consequence":5.1543,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"pack","Sentiment":0.7163,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"sonorus","Sentiment":0.484,"Count":3,"Consequence":-0.5991,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"orchideous","Sentiment":0.6752,"Count":1,"Consequence":2.8928,"Appearance":0},
+
+  {"Classification":"Curse","Spell":"locomotormortis","Sentiment":0.6963,"Count":1,"Consequence":0.0524,"Appearance":0},
+
+  {"Classification":"Charm","Spell":"avifors","Sentiment":0.6792,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"morsmordre","Sentiment":0.6166,"Count":1,"Consequence":3.7784,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"aparecium","Sentiment":0.2902,"Count":1,"Consequence":-0.0108,"Appearance":0}]
