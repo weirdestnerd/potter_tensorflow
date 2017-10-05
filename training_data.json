@@ -1,0 +1,145 @@
+[
+
+  {"Classification":"Charm","Spell":"protego","Sentiment":0.3869,"Count":5,"Consequence":2.1878,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"expectopatronum","Sentiment":0.3937,"Count":28,"Consequence":-22.5768,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"scruge","Sentiment":0.5115,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Charm","Spell":"expelliarmus","Sentiment":0.6059,"Count":17,"Consequence":-1.212,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"engorgio","Sentiment":0.3376,"Count":1,"Consequence":0.042,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"obliviate","Sentiment":0.4723,"Count":2,"Consequence":0.2954,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"homorphus","Sentiment":0.6667,"Count":1,"Consequence":0.542,"Appearance":0},
+
+  {"Classification":"Charm","Spell":"wingardiumleviosa","Sentiment":0.6739,"Count":4,"Consequence":5.805,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"mobiliarbus","Sentiment":0.4041,"Count":1,"Consequence":0.43,"Appearance":0},
+
+  {"Classification":"Charm","Spell":"alohomora","Sentiment":0.5522,"Count":8,"Consequence":1.7206,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"immobulus","Sentiment":0.5222,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Charm","Spell":"accio","Sentiment":0.6707,"Count":21,"Consequence":12.0672,"Appearance":1},
+
+  {"Classification":"Charm","Spell":"eatslugs","Sentiment":0.3924,"Count":1,"Consequence":0.0044,"Appearance":0},
+
+  {"Classification":"Charm","Spell":"rictusempra","Sentiment":0.375,"Count":1,"Consequence":-0.2075,"Appearance":0},
+
+  {"Classification":"Charm","Spell":"pointme","Sentiment":0.3516,"Count":2,"Consequence":-2.2533,"Appearance":0},
+
+  {"Classification":"Curse","Spell":"conjunctivitis","Sentiment":0.4692,"Count":1,"Consequence":1.0464,"Appearance":0},
+
+  {"Classification":"Curse","Spell":"confringo","Sentiment":0.711,"Count":0,"Consequence":1.4589,"Appearance":1},
+
+  {"Classification":"Curse","Spell":"avadakedavra","Sentiment":0.5,"Count":14,"Consequence":-3.4286,"Appearance":1},
+
+  {"Classification":"Jinx","Spell":"flipendo","Sentiment":0.7128,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"legilimens","Sentiment":0.3031,"Count":7,"Consequence":1.1841,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"flagrate","Sentiment":0.662,"Count":1,"Consequence":3.746,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"piertotumlocomotor","Sentiment":0.6062,"Count":0,"Consequence":1.6524,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"reducto","Sentiment":0.7245,"Count":4,"Consequence":7.8337,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"obscuro","Sentiment":0.4441,"Count":0,"Consequence":0.0619,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"petrificustotalus","Sentiment":0.6043,"Count":10,"Consequence":2.5343,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"meteolojinxrecanto","Sentiment":0.2982,"Count":0,"Consequence":4.5877,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"sectumsempra","Sentiment":0.5667,"Count":6,"Consequence":-5.5759,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"tergeo","Sentiment":0.5082,"Count":1,"Consequence":3.7088,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"anapneo","Sentiment":0.6349,"Count":1,"Consequence":-0.0168,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"quietus","Sentiment":0.4369,"Count":1,"Consequence":-2.6612,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"deletrius","Sentiment":0.5,"Count":1,"Consequence":-0.334,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"ennervate","Sentiment":0.5,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"liberacorpus","Sentiment":0.5,"Count":1,"Consequence":0.647,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"ferula","Sentiment":0.375,"Count":1,"Consequence":-0.0423,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"lumos","Sentiment":0.3127,"Count":16,"Consequence":0.3886,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"rennervate","Sentiment":0.625,"Count":5,"Consequence":6.8949,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"defodio","Sentiment":0.7269,"Count":0,"Consequence":2.5619,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"geminio","Sentiment":0.6707,"Count":0,"Consequence":0.3933,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"densaugeo","Sentiment":0.3053,"Count":1,"Consequence":1.972,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"erecto","Sentiment":0.5013,"Count":0,"Consequence":0.1572,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"tarantallegra","Sentiment":0.7128,"Count":2,"Consequence":-0.1968,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"langlock","Sentiment":0.3758,"Count":1,"Consequence":0.1996,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"levicorpus","Sentiment":0.3282,"Count":4,"Consequence":0.6788,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"episkey","Sentiment":0.302,"Count":2,"Consequence":1.8469,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"repellomuggletum","Sentiment":0.3411,"Count":0,"Consequence":0.4683,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"stupefy","Sentiment":0.6053,"Count":18,"Consequence":12.1196,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"avis","Sentiment":0.3423,"Count":1,"Consequence":-1.3779,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"expulso","Sentiment":0.6586,"Count":0,"Consequence":1.611,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"duro","Sentiment":0.6052,"Count":0,"Consequence":0.0018,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"mobilicorpus","Sentiment":0.2713,"Count":1,"Consequence":-0.0132,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"dissendium","Sentiment":0.6298,"Count":3,"Consequence":9.8524,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"muffliato","Sentiment":0.6348,"Count":6,"Consequence":15.721,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"serpensortia","Sentiment":0.4583,"Count":1,"Consequence":1.2148,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"salviohexia","Sentiment":0.3787,"Count":0,"Consequence":2.6971,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"protegohorribilis","Sentiment":0.5263,"Count":0,"Consequence":0.9255,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"relashio","Sentiment":0.6007,"Count":2,"Consequence":0.978,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"peskipiksipesternomi","Sentiment":0.4085,"Count":1,"Consequence":-0.1048,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"reparo","Sentiment":0.376,"Count":8,"Consequence":19.2817,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"prioriincantatum","Sentiment":0.5272,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"reducio","Sentiment":0.6974,"Count":1,"Consequence":1.4548,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"priorincantato","Sentiment":0.3802,"Count":1,"Consequence":0.974,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"specialisrevelio","Sentiment":0.7028,"Count":2,"Consequence":6.6756,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"homenumrevelio","Sentiment":0.375,"Count":0,"Consequence":5.2098,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"silencio","Sentiment":0.4227,"Count":8,"Consequence":-0.1727,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"incendio","Sentiment":0.4488,"Count":2,"Consequence":-0.8503,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"finiteincantatum","Sentiment":0.2881,"Count":0,"Consequence":0,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"caveinimicum","Sentiment":0.5673,"Count":0,"Consequence":4.1147,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"incarcerous","Sentiment":0.5359,"Count":2,"Consequence":6.6108,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"glisseo","Sentiment":0.3974,"Count":0,"Consequence":0.0357,"Appearance":1},
+
+  {"Classification":"Spell","Spell":"waddiwasi","Sentiment":0.6707,"Count":1,"Consequence":-1.5652,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"riddikulus","Sentiment":0.3446,"Count":15,"Consequence":-4.9742,"Appearance":0},
+
+  {"Classification":"Spell","Spell":"deprimo","Sentiment":0.3229,"Count":0,"Consequence":-0.4734,"Appearance":1}]
