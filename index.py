@@ -27,6 +27,7 @@ import csv
 import tempfile
 import argparse
 import sys
+import time
 
 training_data = pd.read_json('training_data.json', orient='records')
 testing_data = pd.read_json('testing_data.json', orient='records')
@@ -57,7 +58,6 @@ kernel_mappers = {
     spell: [spell_km]
 }
 
-# TODO: applied sparse_column to feature_columns
 # sparse column to compensate for insufficient  data
 sparse_classification = tf.contrib.layers.sparse_column_with_hash_bucket("Classification", 4)
 sparse_spell = tf.contrib.layers.sparse_column_with_hash_bucket("Spell", 100)
@@ -87,7 +87,6 @@ def input_fn(data, num_epochs, shuffle):
 # Uncomment next line for debugging in CLI
 # hooks = [tf_debug.LocalCLIDebugHook()]
 
-# TODO: Use kernel
 def build_estimator(model_dir):
     """Build an estimator."""
     return tf.contrib.kernel_methods.KernelLinearClassifier(
@@ -103,18 +102,20 @@ def train_and_eval(model_dir, train_steps):
 
     model_dir = tempfile.mkdtemp() if not model_dir else model_dir
     m = build_estimator(model_dir)
+
     # add 'hooks = hooks' to debug training process
     m.fit(
     input_fn=input_fn(training_data, num_epochs=None, shuffle=True),
     steps=train_steps)
 
-    results = m.evaluate(
+    m.evaluate(
     input_fn=input_fn(testing_data, num_epochs=1, shuffle=False),
     steps=None)
-    
-    print("model directory = %s" % model_dir)
-    for key in sorted(results):
-        print("%s: %s" % (key, results[key]))
+
+    prediction = m.predict_classes(
+    input_fn=input_fn(testing_data, num_epochs=1, shuffle=False))
+
+    print(list(prediction))
 
 FLAGS = None
 
