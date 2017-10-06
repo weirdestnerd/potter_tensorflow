@@ -33,4 +33,4 @@ Training time: ~21 sec
 
 ## Lesson
 
-Several attempts to improve the model and increase its accuracy, by tuning, was to no avail. I learned that small/insufficient datasets are tough to create a Machine Learning model for with linear classifiers. An architecture such as [Neural Network Random Forest](http://www.public.asu.edu/~swang187/publications/NNRF.pdf) (NNRF) known for training models with small datasets.
+Several attempts to improve the model and increase its accuracy, by tuning, was to no avail. I learned that small/insufficient datasets are tough to create a Machine Learning model for with linear classifiers. An architecture such as [Neural Network Random Forest](http://www.public.asu.edu/~swang187/publications/NNRF.pdf) (NNRF) known for training models with small datasets might be employed in the future.
